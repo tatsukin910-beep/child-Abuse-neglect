@@ -173,3 +173,9 @@ CMA（Complex Multilayered Abuse）は、複数の虐待経験が発達過程や
 **© 2026 中村達希**  
 Complex Multilayered Abuse (CMA) Framework  
 #ComplexMultilayered
+
+## CMA Conceptual Model
+
+![Complex Multilayered Abuse (CMA) 概念モデル](CMA_Conceptual_Model_v1.0.jpg)
+
+*Complex Multilayered Abuse (CMA) の概念モデル図。多層的な虐待経験、発達過程、環境要因、支援不応答が相互作用しながら構造を維持する様子を表現しています。*
