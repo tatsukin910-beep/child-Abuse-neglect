@@ -176,6 +176,23 @@ Complex Multilayered Abuse (CMA) Framework
 
 ## CMA Conceptual Model
 
-![Complex Multilayered Abuse (CMA) 概念モデル](CMA_Conceptual_Model_v1.0.jpg)
+![Complex Multilayered Abuse (CMA) 概念モデル]() Create a clean, professional, academic-style conceptual diagram of the "Complex Multilayered Abuse (CMA)" framework.
+
+Central element: Large interconnected core structure labeled "CMA（Complex Multilayered Abuse）"
+
+Surrounding layers with arrows showing mutual interaction and maintenance:
+- 多層的な虐待経験 (family, peer, institutional, developmental timing)
+- 環境・閉鎖的システム要因
+- 支援不応答（Institutional / Environmental Non-Responsiveness）as barriers
+- 認知的・身体的・対人関係的適応 that sustain the structure
+
+Modern systems/ecological model style, clean lines, overlapping layers, directional arrows. 
+Serious academic color palette: deep navy, charcoal gray, soft teal accents. 
+No graphic violence — abstract and structural only.
+
+Top title: "Complex Multilayered Abuse (CMA) Conceptual Model"
+Bottom: "Survivor-led complementary framework for structural understanding | 中村達希 ©2026 | #ComplexMultilayered | Not a diagnostic or treatment model"
+
+High resolution, sharp, vector-like clarity, suitable for academic papers, Researchmap, presentations, and X posts. Japanese text for main labels.
 
 *Complex Multilayered Abuse (CMA) の概念モデル図。多層的な虐待経験、発達過程、環境要因、支援不応答が相互作用しながら構造を維持する様子を表現しています。*
